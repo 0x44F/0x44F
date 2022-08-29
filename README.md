@@ -1,6 +1,6 @@
 # 0x44F
 
-Developer of 6 years, many talents that include extensive knowledge on topics such as
+Developer of 7 years, many talents that include extensive knowledge on topics such as
 deep learning, high -> low level programming and kernel level reverse engineering.
 
 ## About Me
@@ -17,10 +17,12 @@ tell you about what I know, what I've done and how far i've come.
 #### Experiences
 - Attended defcon 2 times
 - Worked with Cloudflare and "exejoiner"
-- Created and deployed over 6 successful projects
+- Developed and worked on Apex Legends p2c, successful profits
+- Created and deployed over 12 successful projects
 - Worked with many companies to help run tests and detect unknown threats (0days)
 - Found and reported many exploits, such as my Discord remote code exploit.
 - Cooperated with AVG / Norton to help deliver new antivirus modules.
+- Found a major flaw with Discord client core files (non-disclosed)
 
 ## Blog
 
