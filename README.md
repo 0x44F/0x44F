@@ -10,9 +10,9 @@ tell you about what I know, what I've done and how far i've come.
 
 #### Current experience
 ```
-Experienced in full-scale web-development and both low & high level programming languages.
-Wrote the gauging script for exe-joiner. Wrote part of the packing algorithm for exe-joiner
-and have worked on multiple large scale projects.
+I have worked on exe-joiner (popular software) and I have many years experience developing
+web and hardware exploitation software. More recently I worked on an Apex Legends cheat p2c
+with a friend 0xfaer.
 ```
 
 ## Blog
